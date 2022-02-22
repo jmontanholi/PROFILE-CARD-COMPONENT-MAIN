@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/jmontanholi/ORDER-SUMMARY-COMPONENT-MAIN
-- Live Site URL: https://jmontanholi.github.io/ORDER-SUMMARY-COMPONENT-MAIN/
+- Solution URL: https://github.com/jmontanholi/PROFILE-CARD-COMPONENT-MAIN
+- Live Site URL: https://jmontanholi.github.io/PROFILE-CARD-COMPONENT-MAIN/
 
 ## My process
 
